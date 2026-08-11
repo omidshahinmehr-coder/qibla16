@@ -161,5 +161,5 @@
     <string name="prayer_method_tehran_desc">الفجر ١٧.٧°، العشاء ١٤°، المغرب ٤.٥° بعد الغروب. الطريقة الافتراضية للتطبيق.</string>
     <string name="prayer_method_jafari">الفقه الجعفري (الشيعة الإثنا عشرية)</string>
     <string name="prayer_method_jafari_desc">الفجر ١٦°، العشاء ١٤°، المغرب ٤° بعد الغروب — وفق الفقه الجعفري.</string>
-    <string name="next_prayer_countdown">حتى %1$s: %2$s</string>
+     <!-- <string name="next_prayer_countdown">حتى %1$s: %2$s</string>-->
 </resources>
