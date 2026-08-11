@@ -161,5 +161,5 @@
     <string name="prayer_method_tehran_desc">فجر ۱۷.۷ درجه، عشاء ۱۴ درجه، مغرب ۴.۵ درجه پس از غروب. روش پیش‌فرض برنامه.</string>
     <string name="prayer_method_jafari">فقه جعفری (شیعه اثنی‌عشری)</string>
     <string name="prayer_method_jafari_desc">فجر ۱۶ درجه، عشاء ۱۴ درجه، مغرب ۴ درجه پس از غروب — مطابق دیدگاه فقه جعفری.</string>
-    <string name="next_prayer_countdown">تا %1$s: %2$s</string>
+     <!--<string name="next_prayer_countdown">تا %1$s: %2$s</string>-->
 </resources>
